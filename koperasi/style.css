@@ -1,0 +1,29 @@
+.circle1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #19a7ce;
+  clip-path: circle(300px at left 600px);
+}
+
+.circle2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  clip-path: circle(150px at left 600px);
+}
+
+.circle3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #19a7ce;
+  clip-path: circle(300px at right 9px);
+}
